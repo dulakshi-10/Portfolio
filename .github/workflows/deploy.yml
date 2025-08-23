@@ -3,7 +3,7 @@ name: Deploy Vite React App
 on:
   push:
     branches:
-      - main   # 👈 or master, depending on your repo
+      - main   # or master if your repo uses master
 
 jobs:
   build:
