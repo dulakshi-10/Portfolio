@@ -12,7 +12,7 @@ const About = () => {
       <div className="about-sections">
         {/* Left Side - Profile Image */}
         <div className="about-left">
-        <img src={profile_img} alt="Dulakshi Profile" />
+        <img src="/Portfolio/assets/profile_img.jpg" alt="Dulakshi Profile" />
         </div>
 
         {/* Right Side - Details */}
